@@ -1,6 +1,0 @@
-Abstract
-This project is a console-based Java application, It automates emergency-room triage, which is normally a judgment-based process where different nurses can rate the same patient differently. For each patient, the program reads name, age, consciousness, heart rate, pain level and complaint type. It validates the input and re-asks for bad values. A rule-based triage() method then labels the patient RED (immediate), YELLOW (urgent) or GREEN (can wait). Patients with no pulse are recorded but given no category.
-
-Patient data is stored in 1D arrays. A switch-driven menu lets staff view the treatment queue (RED first, then YELLOW, then GREEN), search a patient by name, and see statistics: category counts, average age and pain, and total pain, the last computed recursively. The program is split into small reusable methods, including an overloaded printLine().
-
-The project covers Course Outcomes 1–3: primitive types and I/O, selection and iteration, and methods, recursion and arrays. The sample run with 5 patients shows the rules working end to end.
