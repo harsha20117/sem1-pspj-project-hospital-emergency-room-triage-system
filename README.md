@@ -100,14 +100,6 @@ Average pain : 4.3
 Total pain   : 17
 ```
 
-## Course Outcomes Covered
-
-| CO | Module | Concepts used |
-|----|--------|---------------|
-| **CO1** | Module 1 | Primitive types, variables, operators, `Scanner` input, `printf` output, type casting `(double) sum / count` |
-| **CO2** | Module 2 | `if / else-if` ladder in `triage()`, `switch` menu, `do-while` validation, `for` loops, `continue` |
-| **CO3** | Module 3 | Methods with parameters and return values, overloading (`printLine()` / `printLine(title)`), recursion (`totalPain()`), 1D arrays for search, sum, average and count |
-
 ## Limitations
 
 - Data is not saved. Everything is lost when the program exits.
